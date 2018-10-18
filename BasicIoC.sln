@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIoC", "BasicIoC\BasicIoC.csproj", "{D8F333BE-DBAC-4F8E-9BDE-11664A2B5682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIoCTests", "BasicIoCTests\BasicIoCTests.csproj", "{7840634D-3CB3-4F30-8CC6-7F852C36BC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F333BE-DBAC-4F8E-9BDE-11664A2B5682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F333BE-DBAC-4F8E-9BDE-11664A2B5682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F333BE-DBAC-4F8E-9BDE-11664A2B5682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F333BE-DBAC-4F8E-9BDE-11664A2B5682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7840634D-3CB3-4F30-8CC6-7F852C36BC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840634D-3CB3-4F30-8CC6-7F852C36BC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840634D-3CB3-4F30-8CC6-7F852C36BC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840634D-3CB3-4F30-8CC6-7F852C36BC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C9677D-29B8-4C57-92C9-D9F09F1C90D3}
+	EndGlobalSection
+EndGlobal
